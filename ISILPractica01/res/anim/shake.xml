@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<translate xmlns:android="http://schemas.android.com/apk/res/android" 
+   android:fromXDelta="0%" android:toXDelta="5%" android:duration="1000"
+   android:interpolator="@anim/cycle_7" />
+
+<!-- 
+< translate xmlns:android="http://schemas.android.com/apk/res/android" 
+android:fromXDelta="0%" android:toXDelta="5%" android:duration="1000" 
+android:interpolator="@anim/cycle_7" /> -
+ See more at: http://droid-blog.net/2012/05/15/two-simple-ways-to-make-your-users-aware-of-incorrect-input/#sthash.HEjdE0Q6.dpuf
+ -->
